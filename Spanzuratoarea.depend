@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1683108848 source:g:\scoala\an 2\sem 2\poo proiect\spanzuratoarea\spanzuratoarea\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<conio.h>
+	"spanzuratoarea.h"
+
+1683108848 g:\scoala\an 2\sem 2\poo proiect\spanzuratoarea\spanzuratoarea\spanzuratoarea.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<conio.h>
+
+1683109349 source:g:\scoala\an 2\sem 2\poo proiect\spanzuratoarea\spanzuratoarea\spanzuratoarea.cpp
+	"spanzuratoarea.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	<fstream>
+	<dos.h>
+
+1685958881 source:g:\scoala\an 2\sem 2\poo proiect\fdzs\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<conio.h>
+	"spanzuratoarea.h"
+
+1685960860 g:\scoala\an 2\sem 2\poo proiect\fdzs\spanzuratoarea.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<conio.h>
+
+1685960885 source:g:\scoala\an 2\sem 2\poo proiect\fdzs\spanzuratoarea.cpp
+	"spanzuratoarea.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	<fstream>
+	<dos.h>
+
+1685958881 source:g:\scoala\an 2\sem 2\poo proiect\spanzuratoarea\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<conio.h>
+	"spanzuratoarea.h"
+
+1685960860 g:\scoala\an 2\sem 2\poo proiect\spanzuratoarea\spanzuratoarea.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<conio.h>
+
+1686138506 source:g:\scoala\an 2\sem 2\poo proiect\spanzuratoarea\spanzuratoarea.cpp
+	"spanzuratoarea.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	<fstream>
+	<dos.h>
+
